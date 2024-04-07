@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnShare" type="id" />
+    <item name="open_website_button" type="id" />
+    <item name="open_location_button" type="id" />
+    <item name="website_edittext" type="id" />
+    <item name="location_edittext" type="id" />
+    <item name="btnMove" type="id" />
+</resources>
